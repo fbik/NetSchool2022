@@ -1,7 +1,7 @@
 ﻿namespace DSRNetSchool.Common.Exceptions;
 
 using System;
-
+  
 /// <summary>
 /// Base exception for transferred error in the work process
 /// </summary>
